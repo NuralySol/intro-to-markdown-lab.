@@ -2,7 +2,7 @@
 
 # Writing a Function in JavaScript
 
-In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
+In **JavaScript**, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in **JavaScript**.
 
 ## 1. Basic syntax
 
@@ -26,7 +26,9 @@ const greet = (name) => {
 }
 ```
 
->**Tip**: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ). 
+>**Tip**:
+>>Functions often perform actions,so naming with a verb can make it clear what the function does. 
+>>>Examples include fetchData( ), calculateArea( ), or printReport( ). 
 
 ## 2. Calling a function
 
